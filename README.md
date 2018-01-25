@@ -1,3 +1,3 @@
-Web Profile Bii <br> 
-http://biiasa.ga <br>
+Web Profile Bii
+http://biiasa.ga
 Copyright by Bii
